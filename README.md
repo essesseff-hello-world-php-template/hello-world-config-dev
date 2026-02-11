@@ -6,7 +6,7 @@ Helm chart for DEV environment.
 
 - **Environment**: DEV
 - **Auto-Deploy**: Yes (via essesseff upon successful code build triggered by source code push)
-- **Namespace**: `essesseff-hello-world-flask-template`
+- **Namespace**: `essesseff-hello-world-fastapi-template`
 
 ## Updates
 
